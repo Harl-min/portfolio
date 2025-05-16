@@ -14,7 +14,7 @@ const Footer = () => {
 		<footer className="mt-8 py-8 md:mt-20">
 			<Container className="flex flex-col-reverse gap-4 md:flex-row md:justify-between">
 				<span className="text-center md:text-left">
-					&copy; {new Date().getFullYear()} Jacob Herper
+					&copy; {new Date().getFullYear()} Al-Ameen Ashimi
 				</span>
 				<SocialIcons
 					profiles={[

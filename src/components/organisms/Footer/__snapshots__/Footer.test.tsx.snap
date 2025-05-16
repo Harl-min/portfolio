@@ -13,7 +13,7 @@ exports[`Footer renders correctly 1`] = `
       >
         © 
         2023
-         Jacob Herper
+         Al-Ameen Ashimi
       </span>
       <ul
         class="flex flex-wrap gap-6 justify-center md:justify-end"

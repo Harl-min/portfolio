@@ -25,12 +25,12 @@ const getData = async () => {
 };
 
 export const metadata = {
-	title: 'Software Engineer and Consultant Jacob Herper',
+	title: 'Software Engineer and Consultant Al-Ameen Ashimi',
 	description:
 		'A Front-End Software Engineer with a focus on JavaScript and React. I have more than 10 years experience working in software engineering and consulting.',
 	keywords: [
 		'Software Engineer',
-		'Jacob Herper',
+		'Al-Ameen Ashimi',
 		'Software Consulting',
 		'Front-End',
 		'Full-Stack',

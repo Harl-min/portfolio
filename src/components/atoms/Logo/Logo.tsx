@@ -23,7 +23,7 @@ const Logo = ({ hideName }: LogoProps) => {
 					width={48}
 					height={48}
 					quality={100}
-					alt="Vectorised image of Jacob Herper"
+					alt="Vectorised image of Al-Ameen Ashimi"
 					className="h-12 w-12"
 				/>
 				{!hideName && (
@@ -32,7 +32,7 @@ const Logo = ({ hideName }: LogoProps) => {
 							@jakeherp
 						</span>
 						<span className="absolute left-16 from-blue-400 to-blue-700 opacity-0 transition duration-300 group-hover:bg-gradient-to-r group-hover:bg-clip-text group-hover:text-transparent group-hover:opacity-100">
-							Jacob Herper
+							Al-Ameen Ashimi
 						</span>
 					</>
 				)}
